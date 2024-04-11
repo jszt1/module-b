@@ -1,2 +1,3 @@
 # module-b
-Submodule w submodule
+Submodule w submodule \
+Test commit
